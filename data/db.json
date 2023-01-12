@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Asus ZenBook",
+      "cpu": "R3-5300U",
+      "ssd": "256 GB",
+      "PRICE": "1099 AZN",
+      "images": "https://aztech.az/wp-content/uploads/2022/09/ASUS-ZenBook-14-UM3402-1.png"
+    },
+    {
+      "id": 4,
+      "name": "HP",
+      "cpu": "R3-5300U",
+      "ssd": "128 GB",
+      "PRICE": "10000 AZN",
+      "images": "https://aztech.az/wp-content/uploads/2022/11/ASUS-VivoBook-16X-X1603-5.png"
+    },
+    {
+      "id": 5,
+      "name": "HP envy 4400",
+      "cpu": "R3-5300U",
+      "ssd": "128 GB",
+      "PRICE": "10000 AZN",
+      "images": "https://aztech.az/wp-content/uploads/2022/11/ASUS-VivoBook-16X-X1603-5.png"
+    },
+    {
+      "id": 6,
+      "name": "Asus zenBook",
+      "cpu": "R3-5300U",
+      "ssd": "128 GB",
+      "PRICE": "10000 AZN",
+      "images": "https://aztech.az/wp-content/uploads/2022/11/ASUS-VivoBook-16X-X1603-5.png"
+    },
+    {
+      "id": 7,
+      "name": "Asus ZenBook",
+      "cpu": "R3-5300U",
+      "ssd": "128 GB",
+      "PRICE": "10000 AZN",
+      "images": "https://aztech.az/wp-content/uploads/2022/11/ASUS-VivoBook-16X-X1603-5.png"
+    },
+    {
+      "id": 8,
+      "name": "Hp Envyx360",
+      "cpu": "R3-5300U",
+      "ssd": "128 GB",
+      "PRICE": "10000 AZN",
+      "images": "https://aztech.az/wp-content/uploads/2022/11/ASUS-VivoBook-16X-X1603-5.png"
+    },
+    {
+      "id": 9,
+      "name": "Asus VivoBook",
+      "cpu": "R3-5300U",
+      "ssd": "128 GB",
+      "PRICE": "10000 AZN",
+      "images": "https://aztech.az/wp-content/uploads/2022/11/ASUS-VivoBook-16X-X1603-5.png"
+    },
+    {
+      "id": 10,
+      "name": "Asus ZenBook",
+      "cpu": "R3-5300U",
+      "ssd": "128 GB",
+      "PRICE": "10000 AZN",
+      "images": "https://aztech.az/wp-content/uploads/2022/11/ASUS-VivoBook-16X-X1603-5.png"
+    },
+    {
+      "id": 11,
+      "name": "Asus vivoBook",
+      "cpu": "R3-5300U",
+      "ssd": "128 GB",
+      "PRICE": "10000 AZN",
+      "images": "https://aztech.az/wp-content/uploads/2022/11/ASUS-VivoBook-16X-X1603-5.png"
+    },
+    {
+      "id": 20,
+      "name": "Asus ZenBook",
+      "cpu": "R3-5300U",
+      "ssd": "256 GB",
+      "PRICE": "1099 AZN",
+      "images": "https://aztech.az/wp-content/uploads/2022/09/ASUS-ZenBook-14-UM3402-1.png"
+    },
+    {
+      "name": "asus Shahriyar",
+      "PRICE": "pul catmaz",
+      "images": "https://aztech.az/wp-content/uploads/2022/11/ASUS-ZenBook-S13-OLED-UM5302TA-1.png",
+      "id": 21
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
